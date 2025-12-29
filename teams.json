@@ -1,0 +1,272 @@
+{
+  "teams": {
+    "Vitality": [
+      {"name": "apEX", "rating": 78},
+      {"name": "ZywOo", "rating": 93},
+      {"name": "flameZ", "rating": 85},
+      {"name": "mezii", "rating": 82},
+      {"name": "ropz", "rating": 91}
+    ],
+    "Legacy": [
+      {"name": "n1ssim", "rating": 72},
+      {"name": "saadzin", "rating": 73},
+      {"name": "lux", "rating": 71},
+      {"name": "latto", "rating": 77},
+      {"name": "dumau", "rating": 78}
+    ],
+    "Falcons": [
+      {"name": "kyxsan", "rating": 77},
+      {"name": "m0NESY", "rating": 92},
+      {"name": "Jimpphat", "rating": 83},
+      {"name": "NiKo", "rating": 86},
+      {"name": "kyousuke", "rating": 83}
+    ],
+    "G2": [
+      {"name": "huNter-", "rating": 81},
+      {"name": "SunPayus", "rating": 81},
+      {"name": "malbsMd", "rating": 80},
+      {"name": "HeavyGod", "rating": 82},
+      {"name": "MATYS", "rating": 80}
+    ],
+    "Aurora": [
+      {"name": "MAJ3R", "rating": 76},
+      {"name": "woxic", "rating": 79},
+      {"name": "XANTARES", "rating": 85},
+      {"name": "Wicadia", "rating": 81},
+      {"name": "jottAAA", "rating": 75}
+    ],
+    "Astralis": [
+      {"name": "HooXi", "rating": 74},
+      {"name": "device", "rating": 78},
+      {"name": "Magisk", "rating": 79},
+      {"name": "TeSeS", "rating": 83},
+      {"name": "Staehr", "rating": 77}
+    ],
+    "MOUZ": [
+      {"name": "Brollan", "rating": 77},
+      {"name": "torzsi", "rating": 85},
+      {"name": "dem0n", "rating": 78},
+      {"name": "Spinx", "rating": 85},
+      {"name": "XertioN", "rating": 83}
+    ],
+    "Spirit": [
+      {"name": "chopper", "rating": 74},
+      {"name": "sh1ro", "rating": 87},
+      {"name": "donk", "rating": 92},
+      {"name": "zweih", "rating": 77},
+      {"name": "TN1R", "rating": 83}
+    ],
+    "The MongolZ": [
+      {"name": "bLitz", "rating": 84},
+      {"name": "910", "rating": 87},
+      {"name": "Techno4k", "rating": 85},
+      {"name": "controlez", "rating": 86},
+      {"name": "mzinho", "rating": 85}
+    ],
+    "Natus Vincere": [
+      {"name": "Aleksib", "rating": 80},
+      {"name": "w0nderful", "rating": 85},
+      {"name": "b1t", "rating": 86},
+      {"name": "iM", "rating": 84},
+      {"name": "makazze", "rating": 83}
+    ],
+    "FaZe": [
+      {"name": "karrigan", "rating": 77},
+      {"name": "broky", "rating": 87},
+      {"name": "frozen", "rating": 89},
+      {"name": "jcobbb", "rating": 85},
+      {"name": "Twistzz", "rating": 86}
+    ],
+    "FURIA": [
+      {"name": "FalleN", "rating": 80},
+      {"name": "molodoy", "rating": 89},
+      {"name": "yuurih", "rating": 85},
+      {"name": "YEKINDAR", "rating": 86},
+      {"name": "KSCERATO", "rating": 87}
+    ],
+    "paiN": [
+      {"name": "dgt", "rating": 77},
+      {"name": "nqz", "rating": 76},
+      {"name": "biguzera", "rating": 78},
+      {"name": "dav1deuS", "rating": 73},
+      {"name": "snow", "rating": 72}
+    ],
+    "Virtus.pro": [
+      {"name": "FL1T", "rating": 79},
+      {"name": "Perfecto", "rating": 78},
+      {"name": "fame", "rating": 72},
+      {"name": "b1st", "rating": 68},
+      {"name": "TO0RO", "rating": 73}
+    ],
+    "GamerLegion": [
+      {"name": "REZ", "rating": 78},
+      {"name": "hypex", "rating": 77},
+      {"name": "PR", "rating": 85},
+      {"name": "Tauson", "rating": 77},
+      {"name": "ztr", "rating": 73}
+    ],
+    "3DMAX": [
+      {"name": "Graviti", "rating": 77},
+      {"name": "Maka", "rating": 82},
+      {"name": "bodyy", "rating": 81},
+      {"name": "Lucky", "rating": 77},
+      {"name": "Ex3rcice", "rating": 79}
+    ],
+    "Liquid": [
+      {"name": "NAF", "rating": 81},
+      {"name": "ultimate", "rating": 75},
+      {"name": "siuhy", "rating": 78},
+      {"name": "NertZ", "rating": 79},
+      {"name": "EliGE", "rating": 84}
+    ],
+    "HEROIC": [
+      {"name": "nilo", "rating": 75},
+      {"name": "Alkaren", "rating": 76},
+      {"name": "LNZ", "rating": 73},
+      {"name": "yxngstxr", "rating": 71},
+      {"name": "xfl0ud", "rating": 75}
+    ],
+    "MIBR": [
+      {"name": "exit", "rating": 73},
+      {"name": "saffee", "rating": 73},
+      {"name": "brnz4n", "rating": 73},
+      {"name": "insani", "rating": 71},
+      {"name": "nicks", "rating": 73}
+    ],
+    "Lynn Vision": [
+      {"name": "westmelon", "rating": 76},
+      {"name": "z4kr", "rating": 77},
+      {"name": "Starry", "rating": 73},
+      {"name": "EmiliaQAQ", "rating": 75},
+      {"name": "C4LLM3SU3", "rating": 73}
+    ],
+    "B8": [
+      {"name": "kensizor", "rating": 72},
+      {"name": "headtr1ck", "rating": 71},
+      {"name": "alex666", "rating": 72},
+      {"name": "esenthial", "rating": 72},
+      {"name": "npl", "rating": 75}
+    ],
+    "Nemiga": [
+      {"name": "riskyb0b", "rating": 71},
+      {"name": "khaN", "rating": 75},
+      {"name": "1eeR", "rating": 73},
+      {"name": "sowalio", "rating": 74},
+      {"name": "Xant3r", "rating": 77}
+    ],
+    "TYLOO": [
+      {"name": "Mercury", "rating": 76},
+      {"name": "Jee", "rating": 77},
+      {"name": "JamYoung", "rating": 73},
+      {"name": "Moseyuh", "rating": 72},
+      {"name": "Attacker", "rating": 74}
+    ],
+    "Ninjas in Pyjamas": [
+      {"name": "Snappi", "rating": 77},
+      {"name": "r1nkle", "rating": 75},
+      {"name": "ewjerkz", "rating": 76},
+      {"name": "sjuush", "rating": 75},
+      {"name": "xKacpersky", "rating": 79}
+    ],
+    "BIG": [
+      {"name": "tabseN", "rating": 74},
+      {"name": "hyped", "rating": 74},
+      {"name": "kyuubii", "rating": 73},
+      {"name": "Krimbo", "rating": 76},
+      {"name": "JDC", "rating": 76}
+    ],
+    "NRG": [
+      {"name": "nitr0", "rating": 76},
+      {"name": "Sonic", "rating": 74},
+      {"name": "XotiC", "rating": 73},
+      {"name": "br0", "rating": 71},
+      {"name": "Jeorge", "rating": 73}
+    ],
+    "FlyQuest": [
+      {"name": "INS", "rating": 73},
+      {"name": "regali", "rating": 73},
+      {"name": "Vexite", "rating": 72},
+      {"name": "nettik", "rating": 75},
+      {"name": "jks", "rating": 73}
+    ],
+    "Passion UA": [
+      {"name": "JT", "rating": 71},
+      {"name": "hallzerk", "rating": 72},
+      {"name": "Grim", "rating": 73},
+      {"name": "Kvem", "rating": 70},
+      {"name": "nicx", "rating": 68}
+    ],
+    "BetBoom": [
+      {"name": "Boombl4", "rating": 74},
+      {"name": "ArtFr0st", "rating": 74},
+      {"name": "d1Ledez", "rating": 72},
+      {"name": "s1ren", "rating": 71},
+      {"name": "Magnojez", "rating": 74}
+    ],
+    "SAW": [
+      {"name": "MUTiRis", "rating": 72},
+      {"name": "story", "rating": 71},
+      {"name": "Ag1l", "rating": 70},
+      {"name": "aragorN", "rating": 72},
+      {"name": "krazy", "rating": 69}
+    ],
+    "OG": [
+      {"name": "spooke", "rating": 69},
+      {"name": "nicoodoz", "rating": 67},
+      {"name": "arrozdoce", "rating": 70},
+      {"name": "adamb", "rating": 68},
+      {"name": "Chr1zN", "rating": 70}
+    ],
+    "M80": [
+      {"name": "s1n", "rating": 74},
+      {"name": "slaxz-", "rating": 80},
+      {"name": "HexT", "rating": 77},
+      {"name": "Swisher", "rating": 80},
+      {"name": "Lake", "rating": 74}
+    ],
+    "fnatic": [
+      {"name": "fEAR", "rating": 73},
+      {"name": "jambo", "rating": 72},
+      {"name": "KRIMZ", "rating": 70},
+      {"name": "blameF", "rating": 75},
+      {"name": "jackasmo", "rating": 74}
+    ],
+    "ENCE": [
+      {"name": "myltsi", "rating": 73},
+      {"name": "podi", "rating": 74},
+      {"name": "sdy", "rating": 72},
+      {"name": "rigoN", "rating": 73},
+      {"name": "Neityu", "rating": 75}
+    ],
+    "BC.Game": [
+      {"name": "nexa", "rating": 72},
+      {"name": "s1mple", "rating": 78},
+      {"name": "CacaNito", "rating": 70},
+      {"name": "aNdu", "rating": 68},
+      {"name": "electroNic", "rating": 78}
+    ],
+    "Imperium Esport": [
+      {"name": "Tagatel8", "rating": 75},
+      {"name": "FLOOOZZY", "rating": 75},
+      {"name": "Iaul", "rating": 76},
+      {"name": "AymSaama", "rating": 73},
+      {"name": "belamy", "rating": 78}
+    ],
+    "Free Agent": [
+      {"name": "zont1x", "rating": 82},
+      {"name": "Senzu", "rating": 88},
+      {"name": "rain", "rating": 81},
+      {"name": "ICY", "rating": 77},
+      {"name": "stavn", "rating": 77},
+      {"name": "Kursy", "rating": 71},
+      {"name": "CYPHER", "rating": 74},
+      {"name": "pr1metapz", "rating": 70},
+      {"name": "pancc", "rating": 70},
+      {"name": "WOOD7", "rating": 70},
+      {"name": "coldzera", "rating": 73},
+      {"name": "kskoks", "rating": 70},
+      {"name": "naitte", "rating": 69},
+      {"name": "jabbi", "rating": 76}
+    ]
+  }
+}
